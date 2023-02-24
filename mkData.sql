@@ -1,6 +1,6 @@
 
-CREATE DATABASE LECTURE;
-USE LECTURE;
+CREATE DATABASE lecture;
+USE lecture;
 
 -- sujeong
 
